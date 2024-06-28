@@ -1,0 +1,59 @@
+/* index.css */
+
+/* Estilo general para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+/* Estilo para el encabezado */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em;
+}
+
+/* Estilo para el contenido principal */
+main {
+    padding: 2em;
+}
+
+/* Estilo para los encabezados */
+h1 {
+    font-size: 2.5em;
+    margin: 0.5em 0;
+}
+
+h2 {
+    font-size: 2em;
+    margin: 0.5em 0;
+}
+
+/* Estilo para los párrafos */
+p {
+    font-size: 1.2em;
+    margin: 1em 0;
+}
+
+/* Estilo para el pie de página */
+footer {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Estilo para enlaces */
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
